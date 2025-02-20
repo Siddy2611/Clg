@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442240020234",
+    "project_id": "activitytracker-d50aa",
+    "storage_bucket": "activitytracker-d50aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442240020234:android:217dfb85372009e884d4f3",
+        "android_client_info": {
+          "package_name": "com.example.activitytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9Vt-M0gaWo3ay84rjgfiv2yE7vHhPC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
